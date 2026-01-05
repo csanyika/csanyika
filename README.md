@@ -1,5 +1,5 @@
 Hi, I’m Chiratidzo.
-I'm a Master's in Data Science student
+I'm a Data Scientist with a current focus on data curation and analysis for health AI research, with an emphasis on medical imaging and real-world impact.
 
 
 <!---
